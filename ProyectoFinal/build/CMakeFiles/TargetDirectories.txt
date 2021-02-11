@@ -1,0 +1,3 @@
+/home/christian/VisionParte2/ProyectoFinal/build/CMakeFiles/rebuild_cache.dir
+/home/christian/VisionParte2/ProyectoFinal/build/CMakeFiles/lbp.dir
+/home/christian/VisionParte2/ProyectoFinal/build/CMakeFiles/edit_cache.dir
